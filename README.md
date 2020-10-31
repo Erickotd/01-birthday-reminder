@@ -1,3 +1,3 @@
-## Idea
+## you can see the final product here:
 
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+[https://festive-elion-fba08f.netlify.app]
